@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spidine_killer_2.0:jar">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="spidine_killer_2.0.jar">
+      <element id="module-output" name="spidine_killer_2.0" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/libraries/Java-WebSocket-1.5.1-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/libraries/gson-2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
